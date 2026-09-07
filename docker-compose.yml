@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : tarunnenavath/notes-app
+     image : "tarunnenavath/notes-app"
      ports :
          - "8000:8000"
